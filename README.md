@@ -1,5 +1,5 @@
 Salary Prediction Project 
-- This project uses machine learning to predict employee salaries based on their features such as experience, education, department, and gender.
+- This is a simple Machine learning project that uses linear regression to predict employee salaries based on their features such as experience, education, department, and gender.
 
 Features include:
 
